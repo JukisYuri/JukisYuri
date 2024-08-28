@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukisyuri&label=Profile%20views&color=0e75b6&style=flat" alt="jukisyuri" /> </p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jukisyuri" alt="jukisyuri" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=JukisYuri&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yourlifehehe/) 
