@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
 ![Animated Video](https://moewalls.com/anime/changli-river-boat-wuthering-waves-live-wallpaper/)
 <h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
+[Watch the animation video here](https://moewalls.com/anime/changli-river-boat-wuthering-waves-live-wallpaper/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukisyuri&label=Profile%20views&color=0e75b6&style=flat" alt="jukisyuri" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jukisyuri" alt="jukisyuri" /></a> </p>
 
