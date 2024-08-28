@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JukisYuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: inline-block;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JukisYuri&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="display: inline-block;">
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JukisYuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block;">
 </p>
 
