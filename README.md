@@ -18,7 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" alt="Coding" width="290" src="https://i.pinimg.com/736x/42/74/d4/4274d465e66ca7a732be46397f4d1761.jpg">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JukisYuri&limit=5&theme=dark&combine_all_yearly_contributions=true)
