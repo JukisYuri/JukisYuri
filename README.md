@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
-<h3 align="center">A student, still learning</h3>
+<h3 align="center">A student, still learning. One year has passed, I hope I will be better in the future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukisyuri&label=Profile%20views&color=0e75b6&style=flat" alt="jukisyuri" /> </p>
 
