@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
-<img align="left" alt="Coding" width="100" src="https://i.pinimg.com/736x/df/23/ad/df23adf47cd532a3fed6f01d043840f9.jpg">
 <h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukisyuri&label=Profile%20views&color=0e75b6&style=flat" alt="jukisyuri" /> </p>
 
