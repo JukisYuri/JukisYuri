@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
 <h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukisyuri&label=Profile%20views&color=0e75b6&style=flat" alt="jukisyuri" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jukisyuri" alt="jukisyuri" /></a> </p>
 
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jukisyuri" alt="jukisyuri" /></a> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yourlifehehe/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/bestngohao2005/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@pilosjukis7?lang=vi-VN) 
@@ -13,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=JukisYuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JukisYuri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JukisYuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JukisYuri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
