@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="100" src="https://i.pinimg.com/736x/08/40/e5/0840e53c15349d9f0364eb0ce06d9268.jpg">
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
 <h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukisyuri&label=Profile%20views&color=0e75b6&style=flat" alt="jukisyuri" /> </p>
