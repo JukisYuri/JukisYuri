@@ -2,7 +2,6 @@
 <h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jukisyuri&label=Profile%20views&color=0e75b6&style=flat" alt="jukisyuri" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jukisyuri" alt="jukisyuri" /></a> </p>
-https://github.com/user-attachments/assets/cc6a7849-1a7a-4508-98eb-ec16f9936f19
 
 
 ## 🌐 Socials:
