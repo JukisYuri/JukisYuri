@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
 <h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jukisyuri&label=Profile%20views&color=0e75b6&style=flat" alt="jukisyuri" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JukisYuri&theme=default&no-frame=true&no-bg=false&margin-w=4)
