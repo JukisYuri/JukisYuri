@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
-<h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
+<h3 align="center">I'm in the process of learning programming. I have passed one year of university and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JukisYuri&theme=default&no-frame=true&no-bg=false&margin-w=4)
