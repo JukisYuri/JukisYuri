@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JukisYuri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ### ✍️ Random Dev Quote
+![Gif](https://i.pinimg.com/originals/8d/37/93/8d3793707fde5d7dd2f43e232d26547d.gif)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yourlifehehe/) 
