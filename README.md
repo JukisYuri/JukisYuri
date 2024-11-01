@@ -14,6 +14,7 @@
 
 ### ✍️ Random Stuffs:
 [![Discord Presence](https://lanyard.cnrad.dev/api/607183227911667746)](https://discord.com/users/607183227911667746)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313lmd6tlouynadalqbwle7s4z2m&cover_image=true&theme=novatorem&show_offline=true&background_color=5faab4&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yourlifehehe/) 
 ---
