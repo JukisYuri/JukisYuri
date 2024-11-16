@@ -15,9 +15,25 @@
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JukisYuri&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple" />
 </a>
 
-### ✍️ Random Stuffs:
-[![Discord Presence](https://lanyard.cnrad.dev/api/607183227911667746)](https://discord.com/users/607183227911667746)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313lmd6tlouynadalqbwle7s4z2m&cover_image=true&theme=novatorem&show_offline=true&background_color=5faab4&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<table align="center">
+    <tr>
+        <!-- Cột 1: Giới thiệu -->
+        <td>
+            <h3>🌱 What I'm Currently Learning:</h3>
+            <ul style="list-style-type:none; text-align: left;">
+                <li>🔭 Building a personal portfolio website.</li>
+                <li>🌟 Exploring Full-Stack Development.</li>
+                <li>📚 Improving my Data Structures and Algorithms knowledge.</li>
+            </ul>
+        </td>
+        <!-- Cột 2: Discord Presence -->
+        <td>
+            <a href="https://discord.com/users/607183227911667746">
+                <img src="https://lanyard.cnrad.dev/api/607183227911667746" alt="Discord Presence">
+            </a>
+        </td>
+    </tr>
+</table>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yourlifehehe/) 
 ---
