@@ -2,11 +2,8 @@
 <h3 align="center">I'm in the process of learning programming. I have passed one year of university and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
 
 <div align="center">
-    <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/konosuba-smiling-megumin-gif-desktop-wallpaper-preview.gif" alt="Gif" />
+    <img src="https://64.media.tumblr.com/8246f67504ac840581fe5a272da6f371/c08a36a8273291a8-50/s1280x1920/ace336d4ff76ea6a846a9ba95e19bf196a585ec8.gif" alt="Gif" />
 </div>
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)<br/>
 
 # 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
