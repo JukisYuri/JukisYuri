@@ -3,7 +3,7 @@
 
 <div align="center">
     <img src="https://64.media.tumblr.com/8246f67504ac840581fe5a272da6f371/c08a36a8273291a8-50/s1280x1920/ace336d4ff76ea6a846a9ba95e19bf196a585ec8.gif" alt="Gif" 
-    width = 700
+    width = 750
     height = auto />
 </div>
 
