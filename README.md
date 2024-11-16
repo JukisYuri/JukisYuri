@@ -25,7 +25,7 @@
                 <li>🔭 Building a personal portfolio website.</li>
                 <li>🌟 Exploring Full-Stack Development.</li>
                 <li>📚 Improving my Data Structures and Algorithms knowledge.</li>
-                <li>𓍢ִ໋🌷͙֒  Determination to make my dream will come true</li>
+                <li>🌷 Determination to make my dream will come true</li>
                 <li>🪞 https://jukisyuri.carrd.co/ 🪷</li>
             </ul>
         </td>
