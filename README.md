@@ -19,12 +19,14 @@
 <table align="center">
     <tr>
         <!-- Cột 1: Giới thiệu -->
-        <td>
-            <h3>🌱 What I'm Currently Learning:</h3>
+        <td style="vertical-align: top;">
+            <h2>🌱 What I'm Currently Learning:</h3>
             <ul style="list-style-type:none; text-align: left;">
                 <li>🔭 Building a personal portfolio website.</li>
                 <li>🌟 Exploring Full-Stack Development.</li>
                 <li>📚 Improving my Data Structures and Algorithms knowledge.</li>
+                <li>𓍢ִ໋🌷͙֒  Determination to make my dream will come true</li>
+                <li>🪞 https://jukisyuri.carrd.co/ 🪷</li>
             </ul>
         </td>
         <!-- Cột 2: Discord Presence -->
@@ -35,6 +37,7 @@
         </td>
     </tr>
 </table>
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yourlifehehe/) 
 ---
