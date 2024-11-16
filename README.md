@@ -15,6 +15,7 @@
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JukisYuri&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple" />
 </a>
 
+# 🐈‍⬛ Random Things About Me?
 <table align="center">
     <tr>
         <!-- Cột 1: Giới thiệu -->
