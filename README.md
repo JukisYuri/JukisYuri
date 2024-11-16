@@ -2,7 +2,7 @@
 <h3 align="center">I'm in the process of learning programming. I have passed one year of university and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/f6/84/6c/f6846c6a6d128ac0106eea3a85a0125a.gif" alt="Gif" />
+    <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/konosuba-smiling-megumin-gif-desktop-wallpaper-preview.gif" alt="Gif" />
 </div>
 
 # 💻 Tech Stack:
