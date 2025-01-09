@@ -38,8 +38,7 @@
     </tr>
 </table>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discordjs,java,figma,svelte,ts)](https://skillicons.dev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yourlifehehe/) 
+[![My Tech](https://skillicons.dev/icons?i=js,html,css,discordjs,java,figma,svelte,ts)](https://skillicons.dev)
 ---
 [![](https://visitcount.itsvg.in/api?id=JukisYuri&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
