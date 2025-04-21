@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
-<h3 align="center">I'm in the process of learning programming. I have passed one year of university and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
+<h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
 
 <div align="center">
     <img src="https://64.media.tumblr.com/8246f67504ac840581fe5a272da6f371/c08a36a8273291a8-50/s1280x1920/ace336d4ff76ea6a846a9ba95e19bf196a585ec8.gif" alt="Gif" 
