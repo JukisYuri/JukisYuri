@@ -26,7 +26,7 @@
                 <li>🌟 Exploring Full-Stack Development.</li>
                 <li>📚 Improving my Data Structures and Algorithms knowledge.</li>
                 <li>🌷 Determination to make my dream will come true</li>
-                <li>🪞 [https://jukisyuri.carrd.co/](https://jukisyuri-card.vercel.app/) 🪷</li>
+                <li>🪞 https://jukisyuri-card.vercel.app 🪷</li>
             </ul>
         </td>
         <!-- Cột 2: Discord Presence -->
