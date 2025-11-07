@@ -38,7 +38,7 @@
     </tr>
 </table>
 
-[![My Tech](https://skillicons.dev/icons?i=java,html,css,js,discordjs,figma,ts,svelte,python,react)](https://skillicons.dev)
+[![My Tech](https://skillicons.dev/icons?i=java,github,html,css,js,discordjs,figma,ts,svelte,python,react)](https://skillicons.dev)
 ---
 [![](https://visitcount.itsvg.in/api?id=JukisYuri&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
