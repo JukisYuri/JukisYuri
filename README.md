@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
-<h3 align="center">I'm in the process of learning programming. I have passed one year of college and waiting for next challenge. Will a pleasure if you help me a lots~</h3>
+<h3 align="center">I'm in the process of learning programming. I am currently a third-year college student</h3>
+<h4 align="center">コードと映像、どちらも好きなベトナムの学生です。ソフトウェア専攻で、動画編集も勉強しています</h4>
 
 <div align="center">
     <img src="https://64.media.tumblr.com/8246f67504ac840581fe5a272da6f371/c08a36a8273291a8-50/s1280x1920/ace336d4ff76ea6a846a9ba95e19bf196a585ec8.gif" alt="Gif" 
@@ -15,17 +16,17 @@
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JukisYuri&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&timestamp=332" />
 </a>
 
-# 🐈‍⬛ Random Things About Me?
+# 🐈‍⬛ Some Moments
 <table align="center">
     <tr>
         <!-- Cột 1: Giới thiệu -->
         <td style="vertical-align: top;">
-            <h2>🌱 What I'm Currently Learning:</h3>
+            <h2>🌱 Currently Learning:</h3>
             <ul style="list-style-type:none; text-align: left;">
-                <li>🔭 Building a personal portfolio website.</li>
-                <li>🌟 Exploring Full-Stack Development.</li>
-                <li>📚 Improving my Data Structures and Algorithms knowledge.</li>
-                <li>🌷 Determination to make my dream will come true</li>
+                <li>💬 Make friends</li>
+                <li>🌟 Webのプログラミングを勉強しています</li>
+                <li>📚 Blending logic and creativity through coding and editing</li>
+                <li>🌷 Strengthening frontend architecture skills</li>
                 <li>🪞 https://jukisyuri-card.vercel.app 🪷</li>
             </ul>
         </td>
