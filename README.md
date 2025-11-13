@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jukis Yuri</h1>
 <h3 align="center">I'm in the process of learning programming. I am currently a third-year college student</h3>
-<h4 align="center">コードと映像、どちらも好きなベトナムの学生です。ソフトウェア専攻で、動画編集も勉強しています</h4>
+<h4 align="center">プログラミングと動画編集、どちらも好きなベトナムの学生です。大学ではソフトウェアを専攻しつつ、動画編集も学んでいます</h4>
 
 <div align="center">
     <img src="https://64.media.tumblr.com/8246f67504ac840581fe5a272da6f371/c08a36a8273291a8-50/s1280x1920/ace336d4ff76ea6a846a9ba95e19bf196a585ec8.gif" alt="Gif" 
