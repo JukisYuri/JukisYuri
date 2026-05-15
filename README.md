@@ -25,9 +25,9 @@
             <ul style="list-style-type:none; text-align: left;">
                 <li>💬 Make friends</li>
                 <li>🌟 Webのプログラミングを勉強しています</li>
-                <li>📚 Blending logic and creativity through coding and editing</li>
+                <li>📚 WebサイトをMV風にするための, もっとクリエイティブな方法</li>
                 <li>🌷 Strengthening frontend architecture skills</li>
-                <li>🪞 https://jukisyuri-card.vercel.app 🪷</li>
+                <li>🪞 https://card.jukisyuri.id.vn 🪷</li>
             </ul>
         </td>
         <!-- Cột 2: Discord Presence -->
