@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/5a/2f/d7/5a2fd787d811391e6200862cd490a628.jpg" alt="Header" width="300" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/736x/5a/2f/d7/5a2fd787d811391e6200862cd490a628.jpg" alt="Header" width="300" />
   <br><br>
   
   <h3><b><i>「 現実世界からログアウト中... 」</i></b></h3>
@@ -44,9 +44,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="190" src="https://jukisyuri-readme-stats.vercel.app/api?username=JukisYuri&theme=discord_old_blurple&show_icons=true&ring_color=12f424&include_all_commits=true&custom_title=Jukis%20Yuri's%20Github%20Journey%20And%20Future?&timestamp=13" />
+    <img height="190" src="https://jukisyuri-readme-stats.vercel.app/api?username=JukisYuri&theme=discord_old_blurple&show_icons=true&ring_color=12f424&include_all_commits=true&custom_title=Jukis%20Yuri's%20Github%20Journey%20And%20Future?&timestamp=17" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="190" src="https://jukisyuri-readme-stats.vercel.app/api/top-langs?username=JukisYuri&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true&hide=scss,html,css&timestamp=12" />
+    <img height="190" src="https://jukisyuri-readme-stats.vercel.app/api/top-langs?username=JukisYuri&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true&hide=scss,html,css&timestamp=19" />
   </a>
 </div>
