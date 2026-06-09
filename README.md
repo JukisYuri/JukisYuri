@@ -50,3 +50,7 @@
     <img height="190" src="https://jukisyuri-readme-stats.vercel.app/api/top-langs?username=JukisYuri&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true&hide=scss,html,css&timestamp=19" />
   </a>
 </div>
+<br>
+<div align="center">
+  <kbd>✦ Thanks ✦</kbd><kbd>✦ For ✦</kbd><kbd>✦ Reading ✦</kbd>
+</div>
