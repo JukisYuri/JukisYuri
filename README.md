@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/5a/2f/d7/5a2fd787d811391e6200862cd490a628.jpg" alt="Header" width="300" />
   <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=%E3%80%8C+%E7%8F%BE%E5%AE%9F%E4%B8%96%E7%95%8C%E3%81%8B%E3%82%89%E3%83%AD%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88%E4%B8%AD...+%E3%80%8D;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%B5%B7%E3%81%B8%E3%83%80%E3%82%A4%E3%83%96%E3%81%97%E3%81%BE%E3%81%99...;%F0%9F%8C%B8+%E9%9D%99%E3%81%8B%E3%81%AA%E8%A6%B3%E5%AF%9F%E8%80%85+(Silent+Observer)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=%E8%AA%B0%E3%82%82%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%E3%83%BC%E3%82%92%E3%80%81%E5%A5%8F%E3%81%A7%E3%83%AB%E3%80%82" alt="Typing SVG" />
   <p><kbd>🌸 Logging out of the real world...</kbd> <kbd>💻 静かな観察者 (Silent Observer)</kbd></p>
   <br>
 </div>
