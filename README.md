@@ -47,7 +47,7 @@
     <img height="190" src="https://jukisyuri-readme-stats.vercel.app/api?username=JukisYuri&theme=discord_old_blurple&show_icons=true&ring_color=12f424&include_all_commits=true&custom_title=Jukis%20Yuri's%20Github%20Journey%20And%20Future?&timestamp=17" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="190" src="https://jukisyuri-readme-stats.vercel.app/api/top-langs?username=JukisYuri&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true&hide=scss,html,css,jupyter%20notebook,python&timestamp=19" />
+    <img height="190" src="https://jukisyuri-readme-stats.vercel.app/api/top-langs?username=JukisYuri&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple&include_all_commits=true&hide=scss,html,css,jupyter%20notebook&timestamp=19" />
   </a>
 </div>
 <br>
